@@ -29,7 +29,13 @@ This analysis project is divided into three main components:
 ### 1. Excel Analysis
 
 - **Pivot Tables**: Used to calculate metrics like the average subscription duration and most popular subscription types.
-  
+
+### Data Preparation
+
+ 1. The dataset was loaded into Microsoft Excel.
+ 2. The data has duplicate and no missing values.
+ 3. I created an extra column for Subscrription duration.
+    
 ### Key Questions 
 
 1. Analyze customer data using pivot tables to find subscription patterns.
@@ -41,6 +47,11 @@ subscription types.
 
 ### 2. SQL Analysis
 - **Database Queries**: SQL Server was used to answer specific questions about customer counts, subscription types, and cancellation trends.
+
+### Data Preparation
+1. I created a Customerdata Table.
+2. I then immported my Customersdata csv file into my database(ProgreSQL)
+3. Before importing, i ensured the data types were right, no null value, consistency of data.
 
 ### Key Questions 
 
