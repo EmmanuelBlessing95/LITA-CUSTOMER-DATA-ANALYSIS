@@ -76,6 +76,23 @@ subscription types.
 
 ![LITA SQL PROJECT 2(8)](https://github.com/user-attachments/assets/6de2755f-b758-4dd5-926e-38f671fae7dc)
 
+### 3. Power BI Dashboard
+- **Interactive Visualization**: Built an interactive dashboard with slicers for filtering by region and subscription type.
+
+ ### Data Preparation
+
+ 1. I connected my datasource to powerbi and transform on power query.
+ 2. I remove duplicate data and ensure data validation and consistency.
+ 3. I then loaded to PowerBI.
+ 4. I created some measures for my analysis.
+
+### Key Questions 
+
+- Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Include slicers for interactive analysis.
+
+![LITA POWER BI PROJECT 2](https://github.com/user-attachments/assets/40ac284e-27e7-4e81-8ebf-47d6d6b20afb)
+
+
 
 
 
